@@ -1,9 +1,9 @@
 # تحميل التطبيق
 
-بعد رفع المشروع على GitHub ونجاح GitHub Actions، سيكون رابط التحميل بالشكل التالي:
+رابط APK المباشر:
 
-`https://github.com/USERNAME/REPO/raw/main/apk/smart-debt.apk`
+https://github.com/aljwaal1/debt_smart_ar/raw/main/apk/smart-debt.apk
 
-مسار APK:
+مسار الملف داخل المستودع:
 
 `apk/smart-debt.apk`
