@@ -1,7 +1,7 @@
 name: debt_smart_ar
-description: دفتر الديون الذكي - Flutter Android direct APK
+description: Smart debt notebook - Flutter Android direct APK
 publish_to: 'none'
-version: 1.0.0+1
+version: 2.0.0+2
 
 environment:
   sdk: '>=3.4.0 <4.0.0'
