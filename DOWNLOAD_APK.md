@@ -1,9 +1,11 @@
-# تحميل التطبيق
+# Download
 
-رابط APK المباشر:
+APK:
 
 https://github.com/aljwaal1/debt_smart_ar/raw/main/apk/smart-debt.apk
 
-مسار الملف داخل المستودع:
+Path:
 
-`apk/smart-debt.apk`
+apk/smart-debt.apk
+
+Status: V4 updated.
