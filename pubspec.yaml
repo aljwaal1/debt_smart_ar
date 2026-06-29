@@ -1,7 +1,7 @@
 name: debt_smart_ar
-description: Smart debt notebook - Flutter Android direct APK
+description: financial ledger Android APK direct
 publish_to: 'none'
-version: 2.0.0+2
+version: 4.0.0+4
 
 environment:
   sdk: '>=3.4.0 <4.0.0'
